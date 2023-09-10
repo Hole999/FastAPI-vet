@@ -46,8 +46,6 @@ Create a .env file in the project root directory and add the following:
 
 ```
 SECRET_KEY=your_secret_key_here
-
-MONGODB_URL=your_mongodb_connection_string_here
 ```
 
 Run the RestAPI application:
