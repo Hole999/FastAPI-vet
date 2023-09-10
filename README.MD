@@ -60,6 +60,8 @@ Set environment in terminal:
 uvicorn main:app
 ```
 
+Vets exclusively manage their individual animal patients and treatments. Only the vet can delete their own profile.
+
 Access the API documentation at http://localhost:8000/docs in your web browser.
 
 ### API Documentation
